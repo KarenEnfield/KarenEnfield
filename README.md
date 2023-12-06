@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KarenEnfield
-- 👀 I’m interested in Software Development using C++ or other object oriented languages
-- 🌱 I’m currently learning AI and intermediate Java
-- 💞️ I’m looking to collaborate on software development projects in Silicon Valley.
+- 👋 Hi, I'm @KarenEnfield and thank you for taking the time to visit my page!
+- 👀 Software Development using C++, alongside adjacent languages such as Golang.
+- 🌱 Engaaged in continuous learning, I take coding challenges and online courses and some of it is here on git
+- 💞️ I’m open to software development opportunities in Silicon Valley.
 - 📫 How to reach me https://www.linkedin.com/in/karenenfield/
 
 <!---
