@@ -2,7 +2,7 @@
 - 👀 Software Development using C++, alongside adjacent languages such as Golang.
 - 🌱 Engaaged in continuous learning, I take coding challenges and online courses and some of it is here on git
 - 💞️ I’m open to software development opportunities in Silicon Valley.
-- 📫 How to reach me https://www.linkedin.com/in/karenenfield/
+- 📫 You can reach me on Linked In: https://www.linkedin.com/in/karenenfield/
 
 <!---
 KarenEnfield/KarenEnfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
