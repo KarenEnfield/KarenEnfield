@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @KarenEnfield and thank you for taking the time to visit my page!
+- 👋 Hi, I'm @KarenEnfield and I thank you for taking the time to visit my page!
 - 👀 Software Development using C++ is my strong suit, complemented by adjacent languages and technologies
 - 🌱 Engaged in continuous learning, I take online courses and coding challenges, some of which is here on Git
 - 🧚‍♀️ I have a quirky music hobby, enjoy making creative and healthy foods, and like rollerskating and long walks for exercise
