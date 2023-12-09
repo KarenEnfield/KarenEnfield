@@ -1,9 +1,9 @@
-- 👋 Hi, I'm @KarenEnfield and I thank you for taking the time to visit my page!
-- 👀 Software Development using C++ is my strong suit, complemented by adjacent languages and technologies
-- 🌱 Engaged in continuous learning, I take online courses and coding challenges, some of which is here on Git
-- 🧚‍♀️ I have a quirky music hobby, enjoy making creative and healthy foods, and like rollerskating and long walks for exercise
-- 💞️ I’m open to software development opportunities in Silicon Valley, where I'm located.
-- 📫 You can reach me on Linked In: https://www.linkedin.com/in/karenenfield/
+- 👋 Hi!  Thank you for taking the time to visit my page
+- 👀 C++ Software Engineering is my strong suit, complemented by any adjacent languages and technologies needed to get the job done
+- 🌱 Continuously learning, quality online courses get me quickly up to speed on anything I need to know
+- 🧚‍♀️ I have a quirky music hobby, enjoy making creative and healthy foods, and go rollerskating or on long walks to recharge
+- 💞️ I’m open to in-person or hybrid opportunities in Silicon Valley, or remote work that permits flexibility of location
+- 📫 You can contact me through Linked In: https://www.linkedin.com/in/karenenfield/
 
 <!---
 KarenEnfield/KarenEnfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
